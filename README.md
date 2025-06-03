@@ -22,4 +22,4 @@ Design of relational and NoSQL databases
 
 Scalable and secure cloud infrastructure
 
-🎓 Computer Science graduate from UFF, self-taught and passionate about solving problems with technology. Here on GitHub, I share solutions, experiments, and projects I believe have practical value.
+🎓 Computer graduate from UFF (https://www.uff.br), self-taught and passionate about solving problems with technology. Here on GitHub, I share solutions, experiments, and projects I believe have practical value.
